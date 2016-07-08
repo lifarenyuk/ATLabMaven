@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55976" started-at="2016-07-07T11:29:57Z" finished-at="2016-07-07T11:30:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55976" started-at="2016-07-07T11:29:57Z" finished-at="2016-07-07T11:30:53Z">
+      <class name="gmail_test.GmailTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:gmail_test.GmailTest@6d00a15d]" name="initDriver" is-config="true" duration-ms="11118" started-at="2016-07-07T14:29:57Z" finished-at="2016-07-07T14:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:gmail_test.GmailTest@6d00a15d]" name="testLogin" duration-ms="6892" started-at="2016-07-07T14:30:09Z" finished-at="2016-07-07T14:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCheckImportant()[pri:0, instance:gmail_test.GmailTest@6d00a15d]" name="testCheckImportant" duration-ms="16159" started-at="2016-07-07T14:30:15Z" finished-at="2016-07-07T14:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckImportant -->
+        <test-method status="PASS" signature="testImportantMess()[pri:0, instance:gmail_test.GmailTest@6d00a15d]" name="testImportantMess" duration-ms="21716" started-at="2016-07-07T14:30:32Z" finished-at="2016-07-07T14:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImportantMess -->
+        <test-method status="PASS" signature="testDeletingMessages()[pri:0, instance:gmail_test.GmailTest@6d00a15d]" name="testDeletingMessages" duration-ms="0" started-at="2016-07-07T14:30:53Z" finished-at="2016-07-07T14:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeletingMessages -->
+      </class> <!-- gmail_test.GmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
